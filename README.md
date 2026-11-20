@@ -471,10 +471,10 @@ This project is intended strictly for education purposes only.
 
 # 👤 Author
 
-**AZIAGBEDO KOKOU SODJINE**\
+**Noluthando Zuma**\
 Cybersecurity Professional B084
 
-LinkedIn: https://www.linkedin.com/in/kokou-sodjin%C3%A8-aziagbedo-434b2949
+LinkedIn: www.linkedin.com/in/noluthando-zuma-814792232
 
 ---
 
